@@ -34,9 +34,3 @@ Un chatbot Discord qui permet aux employés d'une entreprise de commander leur r
 ```
 
 Au lancement, le bot envoie le formulaire de présence aux membres en ligne. L'employé ajoute la réaction ✅ au message pour recevoir son menu. Il envoie ensuite le nom exact d'un plat (par exemple `Pizza Italiana`). Après le délai d'attente (30 secondes dans le code, modifiable), la commande est créée dans Odoo.
-
-## Limites et pistes d'amélioration
-
-- Le déclenchement automatique chaque jour de semaine à 10h est prévu dans le code mais désactivé : le bot démarre le processus à son lancement.
-- La version `with_close` se déconnecte bien après les commandes, mais génère des erreurs dans les logs lors de la déconnexion.
-- Le menu pourrait devenir interactif, avec des boutons Discord, au lieu de demander de taper le nom du plat.
