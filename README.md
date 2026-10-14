@@ -1,10 +1,6 @@
 # Bot Discord de commande de repas connecté à Odoo
 
-*Projet d'intégration : Système d'information d'entreprise, Université de Genève, 2024*
-
-Un chatbot Discord qui permet aux employés d'une entreprise de commander leur repas de midi directement dans Discord. Les commandes sont enregistrées automatiquement dans le module **Lunch** de l'ERP **Odoo**.
-
-Le module Lunch d'Odoo ne tient pas compte des régimes alimentaires : chaque employé doit chercher lui-même les plats qui lui conviennent. Ce projet ajoute donc à Odoo le régime alimentaire des employés et des plats (végétarien, vegan, sans porc, sans gluten, sans lactose). Le bot peut ainsi envoyer à chacun un **menu personnalisé**.
+Un chatbot Discord qui permet aux employés d'une entreprise de commander leur repas de midi directement dans Discord. Les commandes sont enregistrées automatiquement dans le module **Lunch** de l'ERP **Odoo**. Le module Lunch d'Odoo ne tient pas compte des régimes alimentaires : chaque employé doit chercher lui-même les plats qui lui conviennent. Ce projet ajoute donc à Odoo le régime alimentaire des employés et des plats (végétarien, vegan, sans porc, sans gluten, sans lactose). Le bot peut ainsi envoyer à chacun un **menu personnalisé**. Ce projet a été réalisé dans le cadre du cours Systèmes d'Information d'Entreprise à l'Université de Genève lors du semestre de printemps 2024. 
 
 ## Fonctionnement
 
@@ -35,42 +31,6 @@ Le module Lunch d'Odoo ne tient pas compte des régimes alimentaires : chaque em
 ├── config.py        # Lecture de la configuration (.env)
 ├── *.json           # Copies locales des données Odoo (employés, plats, utilisateurs…)
 └── images/          # Images des plats du menu en cours
-```
-
-## Installation
-
-**Prérequis :** Python 3.9 ou plus récent, une instance **Odoo 17** avec les modules *Employés* et *Lunch*, et un serveur Discord.
-
-1. **Installer les dépendances**
-   ```bash
-   pip install discord.py fpdf2 schedule python-dotenv
-   ```
-
-2. **Créer le bot Discord** sur le [portail développeur Discord](https://discord.com/developers/applications) :
-   - activer les trois *Privileged Gateway Intents* : *Presence*, *Server Members* et *Message Content* ;
-   - copier le token du bot ;
-   - inviter le bot sur le serveur.
-
-3. **Configurer** : copier `.env.example` en `.env`, puis renseigner le token Discord et les identifiants Odoo (URL, base de données, utilisateur et mot de passe).
-
-4. **Préparer la base Odoo** (une seule fois, sur une base non modifiée) en lançant les fonctions qui créent les nouveaux champs et les remplissent :
-   ```bash
-   python -c "import lunch_data as l; l.new_field_lunch(); l.show_lunch_info(); l.update_lunch_diet()"
-   python -c "import hr_data as h; h.new_field_hr(); h.new_discord_field(); h.show_employees_json(); h.set_lunch_habits_employees()"
-   ```
-   Les régimes alimentaires sont attribués aléatoirement, pour la démonstration.
-
-5. **Associer les employés à leur compte Discord** : renseigner le champ *discord* de chaque employé dans Odoo. Régénérer ensuite les fichiers JSON des employés et des utilisateurs :
-   ```bash
-   python -c "import hr_data as h; h.show_employees_json()"
-   python users_data.py
-   ```
-    Sans cette correspondance, le bot ne peut pas identifier qui commande.
-
-## Utilisation
-
-```bash
-python discord_lunch_bot_without_close.py
 ```
 
 Au lancement, le bot envoie le formulaire de présence aux membres en ligne. L'employé ajoute la réaction ✅ au message pour recevoir son menu. Il envoie ensuite le nom exact d'un plat (par exemple `Pizza Italiana`). Après le délai d'attente (30 secondes dans le code, modifiable), la commande est créée dans Odoo.
