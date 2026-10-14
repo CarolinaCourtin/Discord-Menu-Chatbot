@@ -1,0 +1,27 @@
+[
+    {
+        "id": 12,
+        "name": "Carolina Courtin",
+        "login": "carolina.courtin@etu.unige.ch"
+    },
+    {
+        "id": 13,
+        "name": "Carolina2",
+        "login": "carolina.courtin04@gmail.com"
+    },
+    {
+        "id": 7,
+        "name": "Joel Willis",
+        "login": "portal"
+    },
+    {
+        "id": 6,
+        "name": "Marc Demo",
+        "login": "demo"
+    },
+    {
+        "id": 2,
+        "name": "Mitchell Admin",
+        "login": "test@gmail.com"
+    }
+]

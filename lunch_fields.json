@@ -1,0 +1,166 @@
+{
+    "name": {
+        "string": "Product Name",
+        "type": "char"
+    },
+    "topping_ids_1": {
+        "string": "Extras 1",
+        "type": "many2many"
+    },
+    "topping_ids_2": {
+        "string": "Extras 2",
+        "type": "many2many"
+    },
+    "topping_ids_3": {
+        "string": "Extras 3",
+        "type": "many2many"
+    },
+    "product_id": {
+        "string": "Product",
+        "type": "many2one"
+    },
+    "category_id": {
+        "string": "Product Category",
+        "type": "many2one"
+    },
+    "date": {
+        "string": "Order Date",
+        "type": "date"
+    },
+    "supplier_id": {
+        "string": "Vendor",
+        "type": "many2one"
+    },
+    "available_today": {
+        "string": "This is True when if the supplier is available today",
+        "type": "boolean"
+    },
+    "order_deadline_passed": {
+        "string": "Order Deadline Passed",
+        "type": "boolean"
+    },
+    "user_id": {
+        "string": "User",
+        "type": "many2one"
+    },
+    "lunch_location_id": {
+        "string": "Lunch Location",
+        "type": "many2one"
+    },
+    "note": {
+        "string": "Notes",
+        "type": "text"
+    },
+    "price": {
+        "string": "Total Price",
+        "type": "monetary"
+    },
+    "active": {
+        "string": "Active",
+        "type": "boolean"
+    },
+    "state": {
+        "string": "Status",
+        "type": "selection"
+    },
+    "notified": {
+        "string": "Notified",
+        "type": "boolean"
+    },
+    "company_id": {
+        "string": "Company",
+        "type": "many2one"
+    },
+    "currency_id": {
+        "string": "Currency",
+        "type": "many2one"
+    },
+    "quantity": {
+        "string": "Quantity",
+        "type": "float"
+    },
+    "display_toppings": {
+        "string": "Extras",
+        "type": "text"
+    },
+    "product_description": {
+        "string": "Description",
+        "type": "html"
+    },
+    "topping_label_1": {
+        "string": "Extra 1 Label",
+        "type": "char"
+    },
+    "topping_label_2": {
+        "string": "Extra 2 Label",
+        "type": "char"
+    },
+    "topping_label_3": {
+        "string": "Extra 3 Label",
+        "type": "char"
+    },
+    "topping_quantity_1": {
+        "string": "Extra 1 Quantity",
+        "type": "selection"
+    },
+    "topping_quantity_2": {
+        "string": "Extra 2 Quantity",
+        "type": "selection"
+    },
+    "topping_quantity_3": {
+        "string": "Extra 3 Quantity",
+        "type": "selection"
+    },
+    "image_1920": {
+        "string": "Image 1920",
+        "type": "binary"
+    },
+    "image_128": {
+        "string": "Image 128",
+        "type": "binary"
+    },
+    "available_toppings_1": {
+        "string": "Available Toppings 1",
+        "type": "boolean"
+    },
+    "available_toppings_2": {
+        "string": "Available Toppings 2",
+        "type": "boolean"
+    },
+    "available_toppings_3": {
+        "string": "Available Toppings 3",
+        "type": "boolean"
+    },
+    "display_reorder_button": {
+        "string": "Display Reorder Button",
+        "type": "boolean"
+    },
+    "id": {
+        "string": "ID",
+        "type": "integer"
+    },
+    "display_name": {
+        "string": "Display Name",
+        "type": "char"
+    },
+    "create_uid": {
+        "string": "Created by",
+        "type": "many2one"
+    },
+    "create_date": {
+        "string": "Created on",
+        "type": "datetime"
+    },
+    "write_uid": {
+        "string": "Last Updated by",
+        "type": "many2one"
+    },
+    "write_date": {
+        "string": "Last Updated on",
+        "type": "datetime"
+    },
+    "x_regime_alimentaire": {
+        "string": "Regime alimentaire (par exemple, v\u00e9gan, v\u00e9g\u00e9tarien, sans gluten, allergies...)",
+        "type": "char"
+    }
+}

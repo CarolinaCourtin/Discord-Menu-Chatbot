@@ -1,0 +1,62 @@
+[
+    {
+        "id": 8,
+        "name": "Bacon",
+        "date": "2024-04-07",
+        "user_id": [
+            2,
+            "Mitchell Admin"
+        ],
+        "quantity": 1.0
+    },
+    {
+        "id": 5,
+        "name": "4 Formaggi",
+        "date": "2024-04-06",
+        "user_id": [
+            2,
+            "Mitchell Admin"
+        ],
+        "quantity": 1.0
+    },
+    {
+        "id": 4,
+        "name": "Chicken Curry",
+        "date": "2024-04-06",
+        "user_id": [
+            6,
+            "Marc Demo"
+        ],
+        "quantity": 1.0
+    },
+    {
+        "id": 3,
+        "name": "Gouda Cheese",
+        "date": "2024-04-06",
+        "user_id": [
+            6,
+            "Marc Demo"
+        ],
+        "quantity": 1.0
+    },
+    {
+        "id": 2,
+        "name": "Pizza Italiana",
+        "date": "2024-04-04",
+        "user_id": [
+            6,
+            "Marc Demo"
+        ],
+        "quantity": 1.0
+    },
+    {
+        "id": 1,
+        "name": "Bolognese Pasta",
+        "date": "2024-04-05",
+        "user_id": [
+            6,
+            "Marc Demo"
+        ],
+        "quantity": 1.0
+    }
+]

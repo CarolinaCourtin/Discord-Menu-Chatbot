@@ -1,0 +1,184 @@
+[
+    {
+        "id": 26,
+        "name": "4 Formaggi",
+        "price": 5.5,
+        "x_regime_alimentaire": "Sans porc",
+        "description": "<p>Tomato sauce, Olive oil, Fresh Tomatoes, Onions, Vegetables, Parmesan</p>"
+    },
+    {
+        "id": 1,
+        "name": "Bacon",
+        "price": 7.2,
+        "x_regime_alimentaire": "Sans lactose",
+        "description": "<p>Beef, Bacon, Salad, Cheddar, Fried Onion, BBQ Sauce</p>"
+    },
+    {
+        "id": 6,
+        "name": "Bacon",
+        "price": 7.5,
+        "x_regime_alimentaire": "Sans lactose",
+        "description": "<p>Beef, Bacon, Salad, Cheddar, Fried Onion, BBQ Sauce</p>"
+    },
+    {
+        "id": 24,
+        "name": "Bolognese Pasta",
+        "price": 7.7,
+        "x_regime_alimentaire": "Sans lactose",
+        "description": ""
+    },
+    {
+        "id": 16,
+        "name": "Cheese And Ham",
+        "price": 3.3,
+        "x_regime_alimentaire": "Vegan",
+        "description": "<p>Cheese, Ham, Salad, Tomatoes, cucumbers, eggs</p>"
+    },
+    {
+        "id": 7,
+        "name": "Cheese Burger",
+        "price": 7.0,
+        "x_regime_alimentaire": "Sans porc",
+        "description": "<p>Beef, Cheddar, Salad, Fried Onions, BBQ Sauce</p>"
+    },
+    {
+        "id": 2,
+        "name": "Cheese Burger",
+        "price": 6.8,
+        "x_regime_alimentaire": "Vegan",
+        "description": "<p>Beef, Cheddar, Salad, Fried Onions, BBQ Sauce</p>"
+    },
+    {
+        "id": 8,
+        "name": "Chicken Curry",
+        "price": 2.6,
+        "x_regime_alimentaire": "Sans porc",
+        "description": ""
+    },
+    {
+        "id": 3,
+        "name": "Club",
+        "price": 3.4,
+        "x_regime_alimentaire": "Vegan",
+        "description": "<p>Ham, Cheese, Vegetables</p>"
+    },
+    {
+        "id": 11,
+        "name": "Club",
+        "price": 3.4,
+        "x_regime_alimentaire": "Sans gluten",
+        "description": "<p>Ham, Cheese, Vegetables</p>"
+    },
+    {
+        "id": 4,
+        "name": "Coca Cola",
+        "price": 2.9,
+        "x_regime_alimentaire": "Vegan",
+        "description": ""
+    },
+    {
+        "id": 19,
+        "name": "Gouda Cheese",
+        "price": 2.5,
+        "x_regime_alimentaire": "Vegetarien",
+        "description": ""
+    },
+    {
+        "id": 12,
+        "name": "Lunch Maki 18pc",
+        "price": 12.0,
+        "x_regime_alimentaire": "Sans lactose",
+        "description": "<p>6 Maki Salmon - 6 Maki Tuna - 6 Maki Shrimp/Avocado</p>"
+    },
+    {
+        "id": 13,
+        "name": "Lunch Salmon 20pc",
+        "price": 13.8,
+        "x_regime_alimentaire": "Sans lactose",
+        "description": "<p>4 Sushi Salmon - 6 Maki Salmon - 4 Sashimi Salmon </p>"
+    },
+    {
+        "id": 14,
+        "name": "Lunch Temaki mix 3pc",
+        "price": 14.0,
+        "x_regime_alimentaire": "Vegetarien",
+        "description": "<p>1 Avocado - 1 Salmon - 1 Eggs - 1 Tuna</p>"
+    },
+    {
+        "id": 10,
+        "name": "Mozzarella",
+        "price": 3.9,
+        "x_regime_alimentaire": "Vegetarien",
+        "description": "<p>Mozzarella, Pesto, Tomatoes</p>"
+    },
+    {
+        "id": 25,
+        "name": "Napoli Pasta",
+        "price": 7.7,
+        "x_regime_alimentaire": "Sans gluten",
+        "description": "<p>Tomatoes, Basil</p>"
+    },
+    {
+        "id": 21,
+        "name": "Pizza Funghi",
+        "price": 7.0,
+        "x_regime_alimentaire": "Vegan",
+        "description": "<p>Tomatoes, Mushrooms, Mozzarella</p>"
+    },
+    {
+        "id": 23,
+        "name": "Pizza Italiana",
+        "price": 7.4,
+        "x_regime_alimentaire": "Sans lactose",
+        "description": "<p>Fresh Tomatoes, Basil, Mozzarella</p>"
+    },
+    {
+        "id": 20,
+        "name": "Pizza Margherita",
+        "price": 6.9,
+        "x_regime_alimentaire": "Sans porc",
+        "description": "<p>Tomatoes, Mozzarella</p>"
+    },
+    {
+        "id": 5,
+        "name": "Pizza Margherita",
+        "price": 6.9,
+        "x_regime_alimentaire": "Vegan",
+        "description": "<p>Tomatoes, Mozzarella</p>"
+    },
+    {
+        "id": 22,
+        "name": "Pizza Vegetarian",
+        "price": 7.0,
+        "x_regime_alimentaire": "Vegetarien",
+        "description": "<p>Tomatoes, Mozzarella, Mushrooms, Peppers, Olives</p>"
+    },
+    {
+        "id": 15,
+        "name": "Salmon and Avocado",
+        "price": 9.25,
+        "x_regime_alimentaire": "Sans gluten",
+        "description": "<p>2 Tempuras, Cabbages, Onions, Sesame Sauce</p>"
+    },
+    {
+        "id": 9,
+        "name": "Spicy Tuna",
+        "price": 3.0,
+        "x_regime_alimentaire": "Vegan",
+        "description": ""
+    },
+    {
+        "id": 17,
+        "name": "The Country",
+        "price": 3.3,
+        "x_regime_alimentaire": "Sans lactose",
+        "description": "<p>Brie, Honey, Walnut Kernels</p>"
+    },
+    {
+        "id": 18,
+        "name": "Tuna",
+        "price": 2.5,
+        "x_regime_alimentaire": "Sans gluten",
+        "description": "<p>Tuna, Mayonnaise</p>"
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "id": 5553,
+        "name": "active",
+        "field_description": "Active"
+    },
+    {
+        "id": 5549,
+        "name": "category_id",
+        "field_description": "Product Category"
+    },
+    {
+        "id": 5554,
+        "name": "company_id",
+        "field_description": "Company"
+    },
+    {
+        "id": 5566,
+        "name": "create_date",
+        "field_description": "Created on"
+    },
+    {
+        "id": 5565,
+        "name": "create_uid",
+        "field_description": "Created by"
+    },
+    {
+        "id": 5555,
+        "name": "currency_id",
+        "field_description": "Currency"
+    },
+    {
+        "id": 5550,
+        "name": "description",
+        "field_description": "Description"
+    },
+    {
+        "id": 5564,
+        "name": "display_name",
+        "field_description": "Display Name"
+    },
+    {
+        "id": 5558,
+        "name": "favorite_user_ids",
+        "field_description": "Favorite User"
+    },
+    {
+        "id": 5563,
+        "name": "id",
+        "field_description": "ID"
+    },
+    {
+        "id": 5544,
+        "name": "image_1024",
+        "field_description": "Image 1024"
+    },
+    {
+        "id": 5547,
+        "name": "image_128",
+        "field_description": "Image 128"
+    },
+    {
+        "id": 5543,
+        "name": "image_1920",
+        "field_description": "Image"
+    },
+    {
+        "id": 5546,
+        "name": "image_256",
+        "field_description": "Image 256"
+    },
+    {
+        "id": 5545,
+        "name": "image_512",
+        "field_description": "Image 512"
+    },
+    {
+        "id": 5562,
+        "name": "is_available_at",
+        "field_description": "Product Availability"
+    },
+    {
+        "id": 5559,
+        "name": "is_favorite",
+        "field_description": "Is Favorite"
+    },
+    {
+        "id": 5557,
+        "name": "is_new",
+        "field_description": "Is New"
+    },
+    {
+        "id": 5560,
+        "name": "last_order_date",
+        "field_description": "Last Order Date"
+    },
+    {
+        "id": 5548,
+        "name": "name",
+        "field_description": "Product Name"
+    },
+    {
+        "id": 5556,
+        "name": "new_until",
+        "field_description": "New Until"
+    },
+    {
+        "id": 5551,
+        "name": "price",
+        "field_description": "Price"
+    },
+    {
+        "id": 5561,
+        "name": "product_image",
+        "field_description": "Product Image"
+    },
+    {
+        "id": 5552,
+        "name": "supplier_id",
+        "field_description": "Vendor"
+    },
+    {
+        "id": 5568,
+        "name": "write_date",
+        "field_description": "Last Updated on"
+    },
+    {
+        "id": 5567,
+        "name": "write_uid",
+        "field_description": "Last Updated by"
+    }
+]

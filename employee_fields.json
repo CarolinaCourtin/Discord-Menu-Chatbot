@@ -1,0 +1,637 @@
+[
+    {
+        "id": 2744,
+        "name": "active",
+        "field_description": "Active"
+    },
+    {
+        "id": 2727,
+        "name": "activity_date_deadline",
+        "field_description": "Next Activity Deadline"
+    },
+    {
+        "id": 2730,
+        "name": "activity_exception_decoration",
+        "field_description": "Activity Exception Decoration"
+    },
+    {
+        "id": 2731,
+        "name": "activity_exception_icon",
+        "field_description": "Icon"
+    },
+    {
+        "id": 2722,
+        "name": "activity_ids",
+        "field_description": "Activities"
+    },
+    {
+        "id": 2723,
+        "name": "activity_state",
+        "field_description": "Activity State"
+    },
+    {
+        "id": 2729,
+        "name": "activity_summary",
+        "field_description": "Next Activity Summary"
+    },
+    {
+        "id": 2726,
+        "name": "activity_type_icon",
+        "field_description": "Activity Type Icon"
+    },
+    {
+        "id": 2725,
+        "name": "activity_type_id",
+        "field_description": "Next Activity Type"
+    },
+    {
+        "id": 2724,
+        "name": "activity_user_id",
+        "field_description": "Responsible User"
+    },
+    {
+        "id": 2798,
+        "name": "additional_note",
+        "field_description": "Additional Note"
+    },
+    {
+        "id": 2750,
+        "name": "address_id",
+        "field_description": "Work Address"
+    },
+    {
+        "id": 2714,
+        "name": "avatar_1024",
+        "field_description": "Avatar 1024"
+    },
+    {
+        "id": 2717,
+        "name": "avatar_128",
+        "field_description": "Avatar 128"
+    },
+    {
+        "id": 2713,
+        "name": "avatar_1920",
+        "field_description": "Avatar"
+    },
+    {
+        "id": 2716,
+        "name": "avatar_256",
+        "field_description": "Avatar 256"
+    },
+    {
+        "id": 2715,
+        "name": "avatar_512",
+        "field_description": "Avatar 512"
+    },
+    {
+        "id": 2790,
+        "name": "bank_account_id",
+        "field_description": "Bank Account Number"
+    },
+    {
+        "id": 2809,
+        "name": "barcode",
+        "field_description": "Badge ID"
+    },
+    {
+        "id": 2785,
+        "name": "birthday",
+        "field_description": "Date of Birth"
+    },
+    {
+        "id": 2807,
+        "name": "category_ids",
+        "field_description": "Tags"
+    },
+    {
+        "id": 2799,
+        "name": "certificate",
+        "field_description": "Certificate Level"
+    },
+    {
+        "id": 3274,
+        "name": "child_all_count",
+        "field_description": "Indirect Subordinates Count"
+    },
+    {
+        "id": 3276,
+        "name": "child_count",
+        "field_description": "Direct Subordinates Count"
+    },
+    {
+        "id": 2806,
+        "name": "child_ids",
+        "field_description": "Direct subordinates"
+    },
+    {
+        "id": 2782,
+        "name": "children",
+        "field_description": "Number of Dependent Children"
+    },
+    {
+        "id": 2758,
+        "name": "coach_id",
+        "field_description": "Coach"
+    },
+    {
+        "id": 2745,
+        "name": "color",
+        "field_description": "Color Index"
+    },
+    {
+        "id": 2767,
+        "name": "company_country_code",
+        "field_description": "Country Code"
+    },
+    {
+        "id": 2766,
+        "name": "company_country_id",
+        "field_description": "Company Country"
+    },
+    {
+        "id": 2719,
+        "name": "company_id",
+        "field_description": "Company"
+    },
+    {
+        "id": 2777,
+        "name": "country_id",
+        "field_description": "Nationality (Country)"
+    },
+    {
+        "id": 2784,
+        "name": "country_of_birth",
+        "field_description": "Country of Birth"
+    },
+    {
+        "id": 2822,
+        "name": "create_date",
+        "field_description": "Created on"
+    },
+    {
+        "id": 2821,
+        "name": "create_uid",
+        "field_description": "Created by"
+    },
+    {
+        "id": 2817,
+        "name": "currency_id",
+        "field_description": "Currency"
+    },
+    {
+        "id": 3275,
+        "name": "department_color",
+        "field_description": "Department Color"
+    },
+    {
+        "id": 2746,
+        "name": "department_id",
+        "field_description": "Department"
+    },
+    {
+        "id": 2813,
+        "name": "departure_date",
+        "field_description": "Departure Date"
+    },
+    {
+        "id": 2812,
+        "name": "departure_description",
+        "field_description": "Additional Information"
+    },
+    {
+        "id": 2811,
+        "name": "departure_reason_id",
+        "field_description": "Departure Reason"
+    },
+    {
+        "id": 2820,
+        "name": "display_name",
+        "field_description": "Display Name"
+    },
+    {
+        "id": 2815,
+        "name": "driving_license",
+        "field_description": "Driving License"
+    },
+    {
+        "id": 2802,
+        "name": "emergency_contact",
+        "field_description": "Contact Name"
+    },
+    {
+        "id": 2803,
+        "name": "emergency_phone",
+        "field_description": "Contact Phone"
+    },
+    {
+        "id": 2818,
+        "name": "employee_properties",
+        "field_description": "Properties"
+    },
+    {
+        "id": 3285,
+        "name": "employee_skill_ids",
+        "field_description": "Skills"
+    },
+    {
+        "id": 2805,
+        "name": "employee_type",
+        "field_description": "Employee Type"
+    },
+    {
+        "id": 2778,
+        "name": "gender",
+        "field_description": "Gender"
+    },
+    {
+        "id": 2736,
+        "name": "has_message",
+        "field_description": "Has Message"
+    },
+    {
+        "id": 2795,
+        "name": "has_work_permit",
+        "field_description": "Work Permit"
+    },
+    {
+        "id": 2762,
+        "name": "hr_icon_display",
+        "field_description": "Hr Icon Display"
+    },
+    {
+        "id": 2759,
+        "name": "hr_presence_state",
+        "field_description": "Hr Presence State"
+    },
+    {
+        "id": 2819,
+        "name": "id",
+        "field_description": "ID"
+    },
+    {
+        "id": 2814,
+        "name": "id_card",
+        "field_description": "ID Card Copy"
+    },
+    {
+        "id": 2788,
+        "name": "identification_id",
+        "field_description": "Identification No"
+    },
+    {
+        "id": 2709,
+        "name": "image_1024",
+        "field_description": "Image 1024"
+    },
+    {
+        "id": 2712,
+        "name": "image_128",
+        "field_description": "Image 128"
+    },
+    {
+        "id": 2708,
+        "name": "image_1920",
+        "field_description": "Image"
+    },
+    {
+        "id": 2711,
+        "name": "image_256",
+        "field_description": "Image 256"
+    },
+    {
+        "id": 2710,
+        "name": "image_512",
+        "field_description": "Image 512"
+    },
+    {
+        "id": 3278,
+        "name": "is_subordinate",
+        "field_description": "Is Subordinate"
+    },
+    {
+        "id": 2748,
+        "name": "job_id",
+        "field_description": "Job Position"
+    },
+    {
+        "id": 2749,
+        "name": "job_title",
+        "field_description": "Job Title"
+    },
+    {
+        "id": 2804,
+        "name": "km_home_work",
+        "field_description": "Home-Work Distance"
+    },
+    {
+        "id": 2776,
+        "name": "lang",
+        "field_description": "Lang"
+    },
+    {
+        "id": 2760,
+        "name": "last_activity",
+        "field_description": "Last Activity"
+    },
+    {
+        "id": 2761,
+        "name": "last_activity_time",
+        "field_description": "Last Activity Time"
+    },
+    {
+        "id": 2779,
+        "name": "marital",
+        "field_description": "Marital Status"
+    },
+    {
+        "id": 2747,
+        "name": "member_of_department",
+        "field_description": "Member of department"
+    },
+    {
+        "id": 2741,
+        "name": "message_attachment_count",
+        "field_description": "Attachment Count"
+    },
+    {
+        "id": 2733,
+        "name": "message_follower_ids",
+        "field_description": "Followers"
+    },
+    {
+        "id": 2739,
+        "name": "message_has_error",
+        "field_description": "Message Delivery error"
+    },
+    {
+        "id": 2740,
+        "name": "message_has_error_counter",
+        "field_description": "Number of errors"
+    },
+    {
+        "id": 3207,
+        "name": "message_has_sms_error",
+        "field_description": "SMS Delivery error"
+    },
+    {
+        "id": 2735,
+        "name": "message_ids",
+        "field_description": "Messages"
+    },
+    {
+        "id": 2732,
+        "name": "message_is_follower",
+        "field_description": "Is Follower"
+    },
+    {
+        "id": 2742,
+        "name": "message_main_attachment_id",
+        "field_description": "Main Attachment"
+    },
+    {
+        "id": 2737,
+        "name": "message_needaction",
+        "field_description": "Action Needed"
+    },
+    {
+        "id": 2738,
+        "name": "message_needaction_counter",
+        "field_description": "Number of Actions"
+    },
+    {
+        "id": 2734,
+        "name": "message_partner_ids",
+        "field_description": "Followers (Partners)"
+    },
+    {
+        "id": 2752,
+        "name": "mobile_phone",
+        "field_description": "Work Mobile"
+    },
+    {
+        "id": 2728,
+        "name": "my_activity_date_deadline",
+        "field_description": "My Activity Deadline"
+    },
+    {
+        "id": 2743,
+        "name": "name",
+        "field_description": "Employee Name"
+    },
+    {
+        "id": 2764,
+        "name": "newly_hired",
+        "field_description": "Newly Hired"
+    },
+    {
+        "id": 2808,
+        "name": "notes",
+        "field_description": "Notes"
+    },
+    {
+        "id": 2757,
+        "name": "parent_id",
+        "field_description": "Manager"
+    },
+    {
+        "id": 2789,
+        "name": "passport_id",
+        "field_description": "Passport No"
+    },
+    {
+        "id": 2791,
+        "name": "permit_no",
+        "field_description": "Work Permit No"
+    },
+    {
+        "id": 2810,
+        "name": "pin",
+        "field_description": "PIN"
+    },
+    {
+        "id": 2783,
+        "name": "place_of_birth",
+        "field_description": "Place of Birth"
+    },
+    {
+        "id": 2816,
+        "name": "private_car_plate",
+        "field_description": "Private Car Plate"
+    },
+    {
+        "id": 2770,
+        "name": "private_city",
+        "field_description": "Private City"
+    },
+    {
+        "id": 2773,
+        "name": "private_country_id",
+        "field_description": "Private Country"
+    },
+    {
+        "id": 2775,
+        "name": "private_email",
+        "field_description": "Private Email"
+    },
+    {
+        "id": 2774,
+        "name": "private_phone",
+        "field_description": "Private Phone"
+    },
+    {
+        "id": 2771,
+        "name": "private_state_id",
+        "field_description": "Private State"
+    },
+    {
+        "id": 2768,
+        "name": "private_street",
+        "field_description": "Private Street"
+    },
+    {
+        "id": 2769,
+        "name": "private_street2",
+        "field_description": "Private Street2"
+    },
+    {
+        "id": 2772,
+        "name": "private_zip",
+        "field_description": "Private Zip"
+    },
+    {
+        "id": 2720,
+        "name": "resource_calendar_id",
+        "field_description": "Working Hours"
+    },
+    {
+        "id": 2718,
+        "name": "resource_id",
+        "field_description": "Resource"
+    },
+    {
+        "id": 3284,
+        "name": "resume_line_ids",
+        "field_description": "Resume lines"
+    },
+    {
+        "id": 2763,
+        "name": "show_hr_icon_display",
+        "field_description": "Show Hr Icon Display"
+    },
+    {
+        "id": 2787,
+        "name": "sinid",
+        "field_description": "SIN No"
+    },
+    {
+        "id": 3286,
+        "name": "skill_ids",
+        "field_description": "Skill"
+    },
+    {
+        "id": 2781,
+        "name": "spouse_birthdate",
+        "field_description": "Spouse Birthdate"
+    },
+    {
+        "id": 2780,
+        "name": "spouse_complete_name",
+        "field_description": "Spouse Complete Name"
+    },
+    {
+        "id": 2786,
+        "name": "ssnid",
+        "field_description": "SSN No"
+    },
+    {
+        "id": 2800,
+        "name": "study_field",
+        "field_description": "Field of Study"
+    },
+    {
+        "id": 2801,
+        "name": "study_school",
+        "field_description": "School"
+    },
+    {
+        "id": 3277,
+        "name": "subordinate_ids",
+        "field_description": "Subordinates"
+    },
+    {
+        "id": 2721,
+        "name": "tz",
+        "field_description": "Timezone"
+    },
+    {
+        "id": 2756,
+        "name": "user_id",
+        "field_description": "User"
+    },
+    {
+        "id": 2765,
+        "name": "user_partner_id",
+        "field_description": "User's partner"
+    },
+    {
+        "id": 2793,
+        "name": "visa_expire",
+        "field_description": "Visa Expiration Date"
+    },
+    {
+        "id": 2792,
+        "name": "visa_no",
+        "field_description": "Visa No"
+    },
+    {
+        "id": 3536,
+        "name": "website_message_ids",
+        "field_description": "Website Messages"
+    },
+    {
+        "id": 2754,
+        "name": "work_contact_id",
+        "field_description": "Work Contact"
+    },
+    {
+        "id": 2753,
+        "name": "work_email",
+        "field_description": "Work Email"
+    },
+    {
+        "id": 2755,
+        "name": "work_location_id",
+        "field_description": "Work Location"
+    },
+    {
+        "id": 2794,
+        "name": "work_permit_expiration_date",
+        "field_description": "Work Permit Expiration Date"
+    },
+    {
+        "id": 2797,
+        "name": "work_permit_name",
+        "field_description": "work_permit_name"
+    },
+    {
+        "id": 2796,
+        "name": "work_permit_scheduled_activity",
+        "field_description": "Work Permit Scheduled Activity"
+    },
+    {
+        "id": 2751,
+        "name": "work_phone",
+        "field_description": "Work Phone"
+    },
+    {
+        "id": 2824,
+        "name": "write_date",
+        "field_description": "Last Updated on"
+    },
+    {
+        "id": 2823,
+        "name": "write_uid",
+        "field_description": "Last Updated by"
+    }
+]

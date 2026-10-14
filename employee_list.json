@@ -1,0 +1,263 @@
+[
+    {
+        "id": 6,
+        "name": "Abigail Peterson",
+        "department_id": [
+            7,
+            "Management / Professional Services"
+        ],
+        "job_title": "Consultant",
+        "work_email": "abigail.peterson39@example.com",
+        "x_habitudes_alimentaires": "Sans lactose",
+        "x_discord": false
+    },
+    {
+        "id": 14,
+        "name": "Anita Oliver",
+        "department_id": [
+            5,
+            "Management / Research & Development / R&D USA"
+        ],
+        "job_title": "Experienced Developer",
+        "work_email": "anita.oliver32@example.com",
+        "x_habitudes_alimentaires": "Vegetarien",
+        "x_discord": false
+    },
+    {
+        "id": 7,
+        "name": "Audrey Peterson",
+        "department_id": [
+            7,
+            "Management / Professional Services"
+        ],
+        "job_title": "Consultant",
+        "work_email": "audrey.peterson25@example.com",
+        "x_habitudes_alimentaires": "Sans porc",
+        "x_discord": false
+    },
+    {
+        "id": 20,
+        "name": "Beth Evans",
+        "department_id": [
+            4,
+            "Management / Research & Development"
+        ],
+        "job_title": "Experienced Developer",
+        "work_email": "beth.evans77@example.com",
+        "x_habitudes_alimentaires": "Vegan",
+        "x_discord": false
+    },
+    {
+        "id": 21,
+        "name": "Carolina Courtin",
+        "department_id": [
+            1,
+            "Management / Administration"
+        ],
+        "job_title": false,
+        "work_email": "carolina.courtin@etu.unige.ch",
+        "x_habitudes_alimentaires": "Sans lactose",
+        "x_discord": "carolinac6758"
+    },
+    {
+        "id": 23,
+        "name": "Carolina2",
+        "department_id": false,
+        "job_title": false,
+        "work_email": "carolina.courtin04@gmail.com",
+        "x_habitudes_alimentaires": "Sans porc",
+        "x_discord": "friedchicken8342"
+    },
+    {
+        "id": 11,
+        "name": "Doris Cole",
+        "department_id": [
+            7,
+            "Management / Professional Services"
+        ],
+        "job_title": "Consultant",
+        "work_email": "doris.cole31@example.com",
+        "x_habitudes_alimentaires": "Sans porc",
+        "x_discord": false
+    },
+    {
+        "id": 8,
+        "name": "Eli Lambert",
+        "department_id": [
+            3,
+            "Management / Sales"
+        ],
+        "job_title": "Marketing and Community Manager",
+        "work_email": "eli.lambert22@example.com",
+        "x_habitudes_alimentaires": "Sans porc",
+        "x_discord": false
+    },
+    {
+        "id": 12,
+        "name": "Ernest Reed",
+        "department_id": [
+            7,
+            "Management / Professional Services"
+        ],
+        "job_title": "Consultant",
+        "work_email": "ernest.reed47@example.com",
+        "x_habitudes_alimentaires": "Sans gluten",
+        "x_discord": false
+    },
+    {
+        "id": 2,
+        "name": "Jeffrey Kelly",
+        "department_id": [
+            3,
+            "Management / Sales"
+        ],
+        "job_title": "Marketing and Community Manager",
+        "work_email": "jeffrey.kelly72@example.com",
+        "x_habitudes_alimentaires": "Sans lactose",
+        "x_discord": false
+    },
+    {
+        "id": 17,
+        "name": "Jennie Fletcher",
+        "department_id": [
+            4,
+            "Management / Research & Development"
+        ],
+        "job_title": "Experienced Developer",
+        "work_email": "jennie.fletcher76@example.com",
+        "x_habitudes_alimentaires": "Vegetarien",
+        "x_discord": false
+    },
+    {
+        "id": 10,
+        "name": "Keith Byrd",
+        "department_id": [
+            4,
+            "Management / Research & Development"
+        ],
+        "job_title": "Experienced Developer",
+        "work_email": "keith.byrd52@example.com",
+        "x_habitudes_alimentaires": "Sans lactose",
+        "x_discord": false
+    },
+    {
+        "id": 3,
+        "name": "Marc Demo",
+        "department_id": [
+            4,
+            "Management / Research & Development"
+        ],
+        "job_title": "Experienced Developer",
+        "work_email": "mark.brown23@example.com",
+        "x_habitudes_alimentaires": "Vegetarien",
+        "x_discord": false
+    },
+    {
+        "id": 1,
+        "name": "Mitchell Admin",
+        "department_id": [
+            2,
+            "Management"
+        ],
+        "job_title": "Chief Executive Officer",
+        "work_email": "test@gmail.com",
+        "x_habitudes_alimentaires": "Vegetarien",
+        "x_discord": false
+    },
+    {
+        "id": 18,
+        "name": "Paul Williams",
+        "department_id": [
+            6,
+            "Management / Research & Development / R&D USA / Long Term Projects"
+        ],
+        "job_title": "Experienced Developer",
+        "work_email": "paul.williams59@example.com",
+        "x_habitudes_alimentaires": "Vegan",
+        "x_discord": false
+    },
+    {
+        "id": 9,
+        "name": "Rachel Perry",
+        "department_id": [
+            3,
+            "Management / Sales"
+        ],
+        "job_title": "Marketing and Community Manager",
+        "work_email": "jod@odoo.com",
+        "x_habitudes_alimentaires": "Sans lactose",
+        "x_discord": false
+    },
+    {
+        "id": 16,
+        "name": "Randall Lewis",
+        "department_id": [
+            4,
+            "Management / Research & Development"
+        ],
+        "job_title": "Experienced Developer",
+        "work_email": "randall.lewis74@example.com",
+        "x_habitudes_alimentaires": "Sans porc",
+        "x_discord": false
+    },
+    {
+        "id": 4,
+        "name": "Ronnie Hart",
+        "department_id": [
+            4,
+            "Management / Research & Development"
+        ],
+        "job_title": "Team Leader",
+        "work_email": "ronnie.hart87@example.com",
+        "x_habitudes_alimentaires": "Sans lactose",
+        "x_discord": false
+    },
+    {
+        "id": 15,
+        "name": "Sharlene Rhodes",
+        "department_id": [
+            2,
+            "Management"
+        ],
+        "job_title": "Experienced Developer",
+        "work_email": "sharlene.rhodes49@example.com",
+        "x_habitudes_alimentaires": "Sans porc",
+        "x_discord": false
+    },
+    {
+        "id": 5,
+        "name": "Tina Williamson",
+        "department_id": [
+            1,
+            "Management / Administration"
+        ],
+        "job_title": "Human Resources Manager",
+        "work_email": "tina.williamson98@example.com",
+        "x_habitudes_alimentaires": "Sans lactose",
+        "x_discord": false
+    },
+    {
+        "id": 13,
+        "name": "Toni Jimenez",
+        "department_id": [
+            7,
+            "Management / Professional Services"
+        ],
+        "job_title": "Consultant",
+        "work_email": "toni.jimenez23@example.com",
+        "x_habitudes_alimentaires": "Vegetarien",
+        "x_discord": false
+    },
+    {
+        "id": 19,
+        "name": "Walter Horton",
+        "department_id": [
+            4,
+            "Management / Research & Development"
+        ],
+        "job_title": "Experienced Developer",
+        "work_email": "walter.horton80@example.com",
+        "x_habitudes_alimentaires": "Vegetarien",
+        "x_discord": false
+    }
+]
